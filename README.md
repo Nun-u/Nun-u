@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nun-u better known as Noah.
+- 👀 I'm a Computer Science student interested in front-end development within' a web and cloud environment.
+- 🌱 I’m hoping to become highly competent in C, JavaScript and possibly Python by the end of this year.
