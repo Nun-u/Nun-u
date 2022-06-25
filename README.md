@@ -16,5 +16,5 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
    <a href="https://javascript.com" target="_blank" rel="noreferrer"> 
-    <img src="https://icons8.com/icon/108784/javascript" alt="javascript" width="40" height="40"/> </a> 
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> </a> 
 </p>
