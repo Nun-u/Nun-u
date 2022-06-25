@@ -17,4 +17,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
    <a href="https://javascript.com" target="_blank" rel="noreferrer"> 
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> </a> 
+   <a href="reactjs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="react" width="40" height="40"/> </a> 
 </p>
+
