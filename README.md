@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noah</h1>
 <h3 align="center">A Computer Science student, Creative Developer and Casual Academic at UNSW.</h3>
 
-<p> A very empty <i>read me</i> for an individual of no notable personal projects 😂.
+<p> A very empty <i>read me</i> for an individual with no notable personal projects 😂.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
