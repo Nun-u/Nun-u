@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Noah</h1>
-<h3 align="center">A Computer Science student, Creative Developer and Casual Academic at UNSW.</h3>
+# Hi 👋, I'm Noah</h1>
+### A Computer Science student, Creative Developer and Casual Academic at UNSW.</h3>
 
-<p> A very empty <i>read me</i> for an individual with no notable personal projects 😂.
+Hoping to have a lot more interesting and diverse projects open-sourced this year! Feel free to check out [my portfolio](https://nunu.pro).
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
